@@ -1,0 +1,15 @@
+/home/joao/Desafio-Lexart/Cyclotron/bin/Debug/net6.0/Cyclotron
+/home/joao/Desafio-Lexart/Cyclotron/bin/Debug/net6.0/Cyclotron.deps.json
+/home/joao/Desafio-Lexart/Cyclotron/bin/Debug/net6.0/Cyclotron.runtimeconfig.json
+/home/joao/Desafio-Lexart/Cyclotron/bin/Debug/net6.0/Cyclotron.dll
+/home/joao/Desafio-Lexart/Cyclotron/bin/Debug/net6.0/Cyclotron.pdb
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.csproj.AssemblyReference.cache
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.AssemblyInfoInputs.cache
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.AssemblyInfo.cs
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.csproj.CoreCompileInputs.cache
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.dll
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/refint/Cyclotron.dll
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.pdb
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/Cyclotron.genruntimeconfig.cache
+/home/joao/Desafio-Lexart/Cyclotron/obj/Debug/net6.0/ref/Cyclotron.dll
